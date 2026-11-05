@@ -1,5 +1,7 @@
 # Study session
 
+[![Built with Zero](https://img.shields.io/badge/Built%20with-Zero-6C5CE7)](https://zero.codepet.ca)
+
 Question objects, retries, Next and Restart.
 
 This is a complete editable Zero project.
